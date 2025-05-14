@@ -2547,7 +2547,7 @@ zipp==3.19.2
     # via
     #   etils
     #   importlib-metadata
-zoopt==0.4.1
+zoopt==0.4.2
     # via -r python/requirements/ml/tune-test-requirements.txt
 zstandard==0.23.0
     # via clickhouse-connect
