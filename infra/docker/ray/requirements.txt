@@ -167,7 +167,7 @@ azure-identity==1.17.1
     # via -r python/requirements/test-requirements.txt
 azure-mgmt-compute==31.0.0
     # via -r python/requirements/test-requirements.txt
-azure-mgmt-core==1.4.0
+azure-mgmt-core==1.5.0
     # via
     #   azure-cli-core
     #   azure-mgmt-compute
