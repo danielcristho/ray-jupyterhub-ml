@@ -1348,7 +1348,7 @@ opt-einsum==3.3.0
     #   tensorflow
 optuna==4.1.0
     # via -r python/requirements/ml/tune-requirements.txt
-orjson==3.9.10
+orjson==3.10.18
     # via gradio
 ormsgpack==1.7.0
     # via -r python/requirements/ml/rllib-requirements.txt
