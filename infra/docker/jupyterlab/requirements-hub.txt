@@ -169,7 +169,7 @@ nbformat==5.10.4
     #   jupyter-server
     #   nbclient
     #   nbconvert
-nbgitpuller==1.2.1
+nbgitpuller==1.2.2
     # via -r unfrozen/requirements.txt
 nest-asyncio==1.6.0
     # via
