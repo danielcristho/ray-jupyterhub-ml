@@ -1932,7 +1932,7 @@ rich==13.3.2
     #   pyiceberg
     #   semgrep
     #   typer
-rpds-py==0.22.3
+rpds-py==0.25.0
     # via
     #   jsonschema
     #   referencing
