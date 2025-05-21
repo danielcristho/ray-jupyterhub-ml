@@ -17,7 +17,7 @@ pandas==2.2.2
 scikit-learn==1.4.2
 matplotlib==3.8.4
 tqdm==4.66.2
-fsspec==2024.3.1
+fsspec==2025.5.0
 pynvml==11.5.0
 
 # Monitoring
