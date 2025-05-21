@@ -9,7 +9,7 @@ fastapi==0.110.0
 uvicorn==0.22.0
 
 # Jupyter
-jupyterlab==4.1.6
+jupyterlab==4.4.2
 
 # Utilites
 numpy==1.26.4
